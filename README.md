@@ -86,10 +86,5 @@ pip install numpy pandas matplotlib scikit-learn
 
 ## Colab Notebook
 
-<Paste your Colab link here, e.g. https://colab.research.google.com/drive/...>
+<Paste your Colab link here, https://colab.research.google.com/drive/1CIMML-EgjXYHYHOww8SLDgzQhSwj9Mox>
 
-## Author
-
-- **Name:** <Your Name>
-- **Roll No.:** <Your Roll Number>
-- **Course:** <Course Name>
